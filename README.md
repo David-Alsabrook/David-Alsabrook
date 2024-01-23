@@ -6,7 +6,7 @@ Hi there! I'm David, a passionate programmer based in Tulsa, OK! I thrive on sol
 
 ## About Me
 
-I'm enrolled in the Atlas School, a 20-month program specializing in full stack software development. The program places a strong emphasis on peer learning and collaborative teamwork. I am dedicated to honing my skills, exploring new technologies, and engaging in meaningful projects.
+I'm enrolled in the Atlas School, a 20-month program specializing in full stack web development. The program places a strong emphasis on peer learning and collaborative teamwork. I am dedicated to honing my skills, exploring new technologies, and engaging in meaningful projects.
 
 ### 🚀 Quick Highlights:
 
