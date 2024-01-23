@@ -1,8 +1,13 @@
 # David Alsabrook
 
 ## 👋 Hello World!
+# Welcome to My GitHub Profile! 👋
 
-Welcome to my GitHub profile! I'm David, a passionate programmer from Tulsa, OK! I enjoy solving complex problems, building software solutions, and contributing to open source projects.
+Hi there! I'm David, a passionate programmer based in Tulsa, OK! I thrive on solving complex problems, crafting innovative software solutions, and actively contributing to open-source projects. Currently, I am a student at the Atlas School in Tulsa, OK.
+
+## About Me
+
+I'm enrolled in the Atlas School, a 20-month program specializing in software development. The program places a strong emphasis on peer learning and collaborative teamwork. I am dedicated to honing my skills, exploring new technologies, and engaging in meaningful projects.
 
 ### 🚀 Quick Highlights:
 
